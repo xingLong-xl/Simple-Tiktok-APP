@@ -1,0 +1,7 @@
+# Project exclude paths
+/book-api/target/
+/book-common/target/
+/book-mapper/target/
+/book-model/target/
+/book-service/target/
+/mybatis-generator-database/target/
